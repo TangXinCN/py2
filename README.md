@@ -1,2 +1,2 @@
 # py2
-This repository is built for learning python and git.
+This repository is created for learning python and git.
